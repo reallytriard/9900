@@ -1,0 +1,11 @@
+{
+  "id": 1,
+  "version": "1.0",
+  "title": "Story",
+  "standfirst": "",
+  "theme": {
+    "font": "Montserrat",
+    "primaryColor": "#00007a"
+  },
+  "sections": []
+}
